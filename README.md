@@ -1,7 +1,7 @@
 # TOC
 
-```bash
-.
+```go
+ITAM-notes
 ├── Algorítmica y Programación
 │   └── Iván Razo
 │       ├── 00 Introducción.pdf
